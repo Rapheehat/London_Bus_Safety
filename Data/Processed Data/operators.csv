@@ -1,0 +1,32 @@
+operator_id,operator,group_name
+1,"London General",Go-Ahead
+2,Metroline,Metroline
+3,"East London",Stagecoach
+4,Selkent,Stagecoach
+5,"London United","London United"
+6,"Arriva London North","Arriva London"
+7,"Tower Transit","Tower Transit"
+8,"London Central",Go-Ahead
+9,"Metroline West",Metroline
+10,"Abellio London",Abellio
+11,Metrobus,Go-Ahead
+12,"Arriva London South","Arriva London"
+13,"Abellio West",Abellio
+14,"Blue Triangle Buses",Go-Ahead
+15,"Arriva Kent Thameside","Arriva Kent Thameside"
+16,"H R Richmond","Quality Line"
+17,"Arriva The Shires","Arriva The Shires"
+18,"Docklands Buses",Go-Ahead
+19,"C T Plus","CT Plus"
+20,"London Sovereign","London United"
+21,"TGM GROUP",TGM
+22,"East London","Tower Transit"
+23,"Arriva London North",Stagecoach
+24,"Arriva London North","Arriva The Shires"
+25,"Arriva London North",Metroline
+26,"Sullivan Buses","Sullivan Buses"
+27,"Uno Buses","Uno Buses"
+28,"East London",Go-Ahead
+29,"Quality Line","Quality Line"
+30,"Sullivan Bus & Coach","Sullivan Buses"
+31,"Arriva London North",TGM

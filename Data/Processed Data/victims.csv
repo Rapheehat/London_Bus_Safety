@@ -1,0 +1,117 @@
+victim_id,victim_category,victims_sex,victims_age
+1,Passenger,Male,Child
+2,Passenger,Male,Unknown
+3,Passenger,Male,Elderly
+4,Pedestrian,Female,Elderly
+5,Passenger,Female,Elderly
+6,Passenger,Male,Adult
+7,Conductor,Unknown,Unknown
+8,Passenger,Female,Adult
+9,"Member Of Public",Male,Adult
+10,Passenger,Unknown,Unknown
+11,"Bus Driver",Female,Adult
+12,"Bus Driver",Male,Adult
+13,Passenger,Female,Unknown
+14,Pedestrian,Unknown,Unknown
+15,Passenger,Unknown,Adult
+16,Pedestrian,Male,Unknown
+17,Passenger,Unknown,Child
+18,Pedestrian,Male,Adult
+19,Passenger,Unknown,Elderly
+20,Cyclist,Male,Adult
+21,Passenger,Female,Youth
+22,Passenger,Female,Child
+23,"Bus Driver",Male,Elderly
+24,Pedestrian,Female,Unknown
+25,Cyclist,Unknown,Unknown
+26,Motorcyclist,Male,Adult
+27,Pedestrian,Female,Adult
+28,"3rd Party driver / Occupant",Unknown,Unknown
+29,"Member Of Public",Female,Adult
+30,"3rd Party driver / Occupant",Male,Adult
+31,Motorcyclist,Unknown,Unknown
+32,Motorcyclist,Male,Youth
+33,Pedestrian,Male,Elderly
+34,"Member Of Public",Male,Elderly
+35,Other,Unknown,Unknown
+36,Pedestrian,Male,Youth
+37,"3rd Party driver / Occupant",Female,Adult
+38,"Member Of Public",Female,Elderly
+39,Passenger,Male,Youth
+40,"3rd Party driver / Occupant",Unknown,Adult
+41,"Member Of Public",Unknown,Unknown
+42,Cyclist,Unknown,Adult
+43,"Non-Operational Staff",Male,Unknown
+44,"Operational Staff",Male,Unknown
+45,"3rd Party driver / Occupant",Female,Elderly
+46,"Operational Staff",Male,Adult
+47,Pedestrian,Male,Child
+48,Pedestrian,Female,Child
+49,Other,Male,Adult
+50,"3rd Party driver / Occupant",Female,Unknown
+51,Cyclist,Female,Unknown
+52,Pedestrian,Unknown,Adult
+53,"3rd Party driver / Occupant",Female,Child
+54,"3rd Party driver / Occupant",Female,Youth
+55,Pedestrian,Female,Youth
+56,Passenger,Unknown,Youth
+57,"Operational Staff",Female,Adult
+58,Cyclist,Female,Adult
+59,Cyclist,Male,Child
+60,"3rd Party driver / Occupant",Male,Unknown
+61,Conductor,Female,Adult
+62,"Contractor Staff",Male,Adult
+63,Motorcyclist,Unknown,Adult
+64,"Operational Staff",Unknown,Unknown
+65,"Member Of Public",Male,Youth
+66,Cyclist,Male,Unknown
+67,Motorcyclist,Male,Unknown
+68,Other,Male,Child
+69,"Bus Driver",Female,Elderly
+70,"Member Of Public",Male,Child
+71,Conductor,Male,Adult
+72,"3rd Party driver / Occupant",Male,Elderly
+73,"3rd Party driver / Occupant",Unknown,Child
+74,Other,Female,Adult
+75,Cyclist,Female,Youth
+76,"Member Of Public",Male,Unknown
+77,Pedestrian,Unknown,Elderly
+78,"Member Of Public",Female,Unknown
+79,Pedestrian,Unknown,Youth
+80,Cyclist,Male,Youth
+81,"TfL Staff",Female,Adult
+82,"Operations staff (other)",Unknown,Unknown
+83,"TfL Staff",Unknown,Unknown
+84,Pedestrian,Unknown,Child
+85,Cyclist,Female,Elderly
+86,Conductor,Male,Unknown
+87,Cyclist,Male,Elderly
+88,"3rd Party driver / Occupant",Male,Child
+89,Other,Female,Unknown
+90,"Cyclist ",Female,Adult
+91,"Cyclist ",Male,Adult
+92,"Cyclist ",Male,Unknown
+93,"Motorcyclist ",Unknown,Unknown
+94,"Cyclist ",Unknown,Unknown
+95,"Cyclist ",Female,Child
+96,"Cyclist ",Female,Unknown
+97,"Motorcyclist ",Male,Unknown
+98,"Cyclist ",Male,Child
+99,"Cyclist ",Male,Youth
+100,Other,Female,Elderly
+101,"Motorcyclist ",Male,Adult
+102,Motorcyclist,Female,Adult
+103,"Member Of Public",Unknown,Adult
+104,"Bus Driver",Female,Unknown
+105,"Member Of Public",Unknown,Child
+106,Cyclist,Female,Child
+107,Other,Male,Unknown
+108,"TfL Staff",Male,Adult
+109,"Member Of Public",Female,Youth
+110,"Bus Driver",Unknown,Adult
+111,"Member Of Public",Female,Child
+112,"Operational Staff",Unknown,Adult
+113,"Bus Driver",Male,Unknown
+114,"Bus Driver",Unknown,Unknown
+115,Other,Male,Youth
+116,"Insufficient Data",Unknown,Unknown
