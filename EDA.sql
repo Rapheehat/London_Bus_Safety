@@ -67,7 +67,7 @@ FROM incidents
 GROUP BY month
 ORDER BY incident_count DESC;
 
--- Q11. What is the distribution of incidents based on injury result description?
+-- Q11. What are the common severity levels of incidents?
 SELECT injury_result_description, COUNT(*) as incident_count,
   ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM incidents), 1) as percentage
 FROM incidents
