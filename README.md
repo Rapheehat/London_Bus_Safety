@@ -58,27 +58,27 @@ This analysis examines whether specific bus garages have a higher frequency of i
 
 **Q10. IS THERE A PARTICULAR MONTH OF THE YEAR WHEN INCIDENTS ARE MOST COMMON??**-
 Understanding whether certain month of the year see more incidents can help in preparing for these periods with enhanced safety measures.
-![alt text](<Screenshot/10.png>)
+![alt text](<Screenshot/Q10.png>)
 
 **Q11. WHAT ARE THE COMMON SEVERITY LEVELS OF INCIDENTS??**-
 Understanding the severity of incidents allows us to prioritize safety measures based on the potential harm caused by these incidents.
-![alt text](<Screenshot/11.png>)
+![alt text](<Screenshot/Q11.png>)
 
 **Q12. HOW DO INCIDENT RATES VARY BETWEEN TIMES OF THE YEAR (SEASONS)?**-
 Analyzing the data by seasons helps in identifying patterns, such as whether certain seasons are more prone to incidents, which could be due to factors like weather conditions.
-![alt text](<Screenshot/12.png>)
+![alt text](<Screenshot/Q12.png>)
 
 **Q13. WHAT IS THE AGE DISTRIBUTION OF INCIDENT VICTIMS?**-
 This analysis reveals the age distribution of those involved in incidents, highlighting which age groups are most affected.
-![alt text](<Screenshot/13.png>)
+![alt text](<Screenshot/Q13.png>)
 
 **Q14. WHAT IS THE AVERAGE NUMBER OF INCIDENTS PER ROUTE?**-
 This analysis determines the average number of incidents per bus route to highlight routes with higher or lower safety performance.
-![alt text](<Screenshot/14.png>)
+![alt text](<Screenshot/Q14.png>)
 
 **Q15. FREQUENCY OF INCIDENTS INVOLVING MULTIPLE VICTIMS**-
 This analysis looks at how often incidents with multiple victims occur, aiding in understanding their impact and addressing safety concerns.
-![alt text](<Screenshot/15.png>)
+![alt text](<Screenshot/Q15.png>)
 
 ## Conclusion
 
